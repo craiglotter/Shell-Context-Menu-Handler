@@ -1,0 +1,13 @@
+Shell Context Menu Handler
+
+In Windows if you right-click on any file, a context menu appears detailing a number of actions that can be undertaken on that file. Shell Context Menu Handler allows you to add such an option to a file type by simply locating the extension you wish to affect in the lisbox on the left of the application and then creating a name and command pair for it. 
+
+Created by Craig Lotter, November 2006
+
+*********************************
+
+Project Details:
+
+Coded in Visual Basic .NET using Visual Studio .NET 2005
+Implements concepts such as registry manipulation.
+Level of Complexity: Simple
